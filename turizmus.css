@@ -1,9 +1,8 @@
-.dobozdiv{
+.turizdoboz{
     box-shadow: 5px 5px 5px;
     margin: 15px;
     border: 1px solid black;
     padding: 5px;
-    background-color: yellow;
-        font-size: 30px;
-
+    background-color: lightgoldenrodyellow;
+    font-size: 30px;
 }
